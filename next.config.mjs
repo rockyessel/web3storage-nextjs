@@ -2,6 +2,7 @@
 const nextConfig = {
   images: {
     remotePatterns: [{ hostname: 'localhost' }],
+    remotePatterns: [{ hostname: 'web3storage' }],
   },
 };
 
